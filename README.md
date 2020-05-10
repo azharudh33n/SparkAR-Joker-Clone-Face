@@ -1,9 +1,9 @@
 # SparkAR-Joker-Clone-Face
 
-Brief
+<b> Brief </b> <br>
 Use the patch editor to create an interactive clown mask effect that is affected by the user's mouth interactions.
 
-Rubric
+<b> Rubric </b> <br>
 Use the Face Target to place a red ball on top of your nose
 Use any Face Interaction or Face Landmark patch on the patch editor to detect a change in the user's mouth.
 This interaction should animate the scale of the red ball to grow bigger by using patches.
