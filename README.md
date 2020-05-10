@@ -1,4 +1,4 @@
-# Joker Clone Face Using Facebook Spark AR Studio
+# Joker clone face using Facebook Spark AR Studio
 
 <b> Brief </b> <br>
 Use the patch editor to create an interactive clown mask effect that is affected by the user's mouth interactions.
